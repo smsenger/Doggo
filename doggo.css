@@ -1,0 +1,30 @@
+#head {
+    color: white;
+    text-align: center;
+    height: 36vh;
+    background-image: url("doggo.jpg");
+    border: 3px solid black;
+}
+
+.flex-doggo {
+    display: flex;
+}
+
+.selection {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+
+.option {
+    margin-top: 6vh;
+}
+
+button[type="button"] {
+    margin-top: 4vh;
+}
+
+.image {
+    margin-top: 6vh;
+    margin-left: 18vw;
+}
