@@ -1,0 +1,1 @@
+This app displays a dog, allowing the user to select a breed and receive a corresponding image.
